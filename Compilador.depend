@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1538319372 source:c:\users\camil\music\compilador\compilador\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"scan.h"
+
+1538282608 c:\users\camil\music\compilador\compilador\scan.h
+	<stdio.h>
+
+1538322439 source:c:\users\camil\music\compilador\compilador\scan.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan.h"
+
+1538323161 source:c:\users\camil\music\compilador\compilador\scan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan.h"
+
+1538502462 source:c:\users\camilo.moraes.a\downloads\compilador\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"scan.h"
+
+1538502462 c:\users\camilo.moraes.a\downloads\compilador\scan.h
+	<stdio.h>
+
+1538502462 source:c:\users\camilo.moraes.a\downloads\compilador\scan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan.h"
+
+1538502462 source:c:\users\camil\desktop\tcc new\compilador\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"scan.h"
+
+1538502462 c:\users\camil\desktop\tcc new\compilador\scan.h
+	<stdio.h>
+
+1538502462 source:c:\users\camil\desktop\tcc new\compilador\scan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan.h"
+
+1539124891 source:m:\compilador\scan.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"scan.h"
+
+1539124891 m:\compilador\scan.h
+	<stdio.h>
+
+1539125368 source:m:\compilador\babe.c
+
+1539127355 source:m:\compilador\main.cpp
+	<iostream>
+	<list>
+	<stdio.h>
+	<string.h>
+	"scan.h"
+	<stdlib.h>
+
